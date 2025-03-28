@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ImagePanel from '@/components/ImagePanel';
 
 export default function Home() {
